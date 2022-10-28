@@ -1,0 +1,5 @@
+[config]
+
+name="timeKeeper"
+binary_type="local"
+binary="timeKeeper-debug.aar"
